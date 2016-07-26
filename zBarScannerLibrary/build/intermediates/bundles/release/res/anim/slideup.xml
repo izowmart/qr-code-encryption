@@ -1,0 +1,10 @@
+<translate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromXDelta="0"
+    android:toXDelta="200"
+    android:duration="1000"
+    android:repeatCount="infinite"
+    android:repeatMode="reverse"
+    android:pivotX="100%"
+    android:pivotY="100%"
+    android:fillAfter="true" /><!-- From: file:/F:/DigiTransport/zBarScannerLibrary/src/main/res/anim/slideup.xml -->

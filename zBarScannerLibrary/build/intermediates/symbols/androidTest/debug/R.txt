@@ -1,0 +1,7 @@
+int anim slideup 0x7f030000
+int drawable ic_launcher 0x7f020000
+int drawable img 0x7f020001
+int drawable img2 0x7f020002
+int drawable img3 0x7f020003
+int drawable line 0x7f020004
+int string app_name 0x7f040000
